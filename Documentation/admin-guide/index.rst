@@ -23,7 +23,7 @@ etc.
    features
 
 A big part of the kernel's administrative interface is the /proc and sysfs
-virtual filesystems; these documents describe how to interact with tem
+virtual filesystems; these documents describe how to interact with them
 
 .. toctree::
    :maxdepth: 1
